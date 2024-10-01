@@ -1,0 +1,6 @@
+# Set default behavior to automatically normalize line endings
+* text=auto
+
+# Explicitly define line endings for specific file types
+*.sh text eol=lf
+*.ipynb text eol=lf
